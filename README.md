@@ -1,7 +1,7 @@
 ### Oi, eu sou Kevin Souza 👋
 
 <div>
-  <a href="https://github.com/KevinAeiou/KevinAeiou">
+  <a href="https://github.com/KevinAeiou">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinAeiou&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAeiou&layout=compact&langs_count=7&theme=dracula"/>
 </div>
